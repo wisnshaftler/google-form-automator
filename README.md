@@ -1,7 +1,7 @@
 # Google-Forms-Automator
 This small code can automatically select answers in google forms and submit those. You can put your custom answers to this.
 
-Still can't this code cant answer to 'other option' question in google forms. Because it have small verification. But im tired to do that and now i want to sleep.
+Still this code cant answer to 'other option' question in google forms. Because it have small verification. But im tired to do that and now i want to sleep.
 
 ## මේකෙන් වැඩ කරන්නේ මෙහෙමයි 
 ඉස්සෙල්ලම තමන්ගේ බ්‍රවුසර් එකට බ්‍රවුසර් එකේ වර්ෂන් එකට  හරියන ක්‍රෝම් ඩ්‍රයිවර් එක ඩවුන්ලෝඩ් කරගන්න. හැම එකාම ක්‍රෝම් යුස් කරන නිසා මෙන්න එකේ ලින්ක් එක 
